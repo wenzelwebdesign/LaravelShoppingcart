@@ -523,7 +523,7 @@ class Cart
     }
 
     /**
-     * Get the Formated number
+     * Get the Formated number.
      *
      * @param $value
      * @param $decimals
